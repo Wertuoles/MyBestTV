@@ -4,7 +4,7 @@ http://50.7.222.90:8081/per_nac/index.m3u8?wmsAuthSign=22cec886453aa99240f31b80e
 #EXTINF:-1,Перший Західний (Львов)
 http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
 #EXTINF:-1,1+1
-http://50.7.222.90:8081/per_nac/index.m3u8?wmsAuthSign=22cec886453aa99240f31b80e4e36606-1591703476-22i38i261i591
+http://50.7.120.165:8081/1pl1/index.m3u8?wmsAuthSign=3c36f7d92fabed01e8dde0ecaefaf392-1591707367-22i38i261i591
 #EXTINF:-1,2+2
 http://50.7.222.90:8081/2pl2/index.m3u8?wmsAuthSign=91337b843f1eda9583c295428d4401b3-1591703512-22i38i261i591
 #EXTINF:-1,ICTV
